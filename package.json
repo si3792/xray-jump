@@ -2,14 +2,15 @@
   "name": "xray-jump",
   "displayName": "Xray-Jump",
   "description": "Fork of Find-Jump. Adds X-rayo vision",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "publisher": "si3792",
+  "icon": "demoFiles/icon.png",
   "engines": {
     "vscode": "^1.15.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/si3792/xvsc/tree/master/findJump"
+    "url": "https://github.com/si3792/xray-jump"
   },
   "categories": ["Other"],
   "activationEvents": ["onCommand:xrayJump.activate", "onCommand:xrayJump.activateWithSelection"],
