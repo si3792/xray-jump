@@ -2,7 +2,7 @@
   "name": "xray-jump",
   "displayName": "Xray-Jump",
   "description": "Fork of Find-Jump. Adds X-rayo vision",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "publisher": "si3792",
   "icon": "demoFiles/icon.png",
   "engines": {
